@@ -38,7 +38,7 @@ User Manual
         :img-alt: Image showing QelectroTech app icon
     
     .. grid-item-card:: Conductor
-        :img-top: ../_external/_images/ico/breeze-icons/128x128/apps/qelectrotech.png
+        :img-top: ../_external/_images/ico/256x256/conductor.png
         :img-alt: Image showing QelectroTech app icon
     
     .. grid-item-card:: Schema
