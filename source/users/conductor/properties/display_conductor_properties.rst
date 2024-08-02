@@ -1,4 +1,4 @@
-.. _conductor/properties/display_conductor_properties
+.. _conductor/properties/display_conductor_properties:
 
 ============================
 Display conductor properties
@@ -13,7 +13,7 @@ Display conductor properties from menu bar
     1. Select the `conductor`_ which `properties`_ should be displayed.
     2. Select **Edit > Edit conductor** menu item to display the conductor properties PopUP window.
 
-.. figure:: ../../images/qet_menu_edit_conductor.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit_conductor.png
    :align: center
 
    Figure: QElectroTech Edit menu
@@ -24,7 +24,7 @@ Display conductor properties from workspace
     1. Right click on the `conductor`_ which `properties`_ should be displayed.
     2. Select **Edit conductor** option to display the conductor properties PopUP window.
 
-.. figure:: ../../images/qet_conductor_right_click.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_right_click.png
    :align: center
 
    Figure: QElectroTech conductor options

@@ -1,4 +1,4 @@
-.. _conductor/properties/conductor_type
+.. _conductor/properties/conductor_type:
 
 ==============
 Conductor type
@@ -27,7 +27,7 @@ conductor. The parameters which can be defined are:
    10. **Cable**:
    11. **Bus**:
 
-.. figure:: ../../images/qet_conductor_properties_type_multiline.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_type_multiline.png
    :align: center
 
    Figure: Multiline conductor properties
@@ -54,7 +54,7 @@ QElectroTech allows the following options for `single line conductors`_:
    3. **PEN** system, system where **Neutral** and **Ground** are the same wire.
    4. Systems with one, two or three phases
 
-.. figure:: ../../images/qet_conductor_properties_type_single_line.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_type_single_line.png
    :align: center
 
    Figure: Single line conductor properties

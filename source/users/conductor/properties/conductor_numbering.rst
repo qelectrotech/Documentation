@@ -1,4 +1,4 @@
-.. _conductor/properties/conductor_numbering
+.. _conductor/properties/conductor_numbering:
 
 ====================
 Conductor numbering
@@ -11,7 +11,7 @@ systems and `schemas`_.
 QElectroTech allows the definition of multiples auto numbering patterns. It also provides many 
 flexibility on the creation of auto numbering patterns using text, variables and sequential numbers. 
 
-.. figure:: ../../images/qet_project_properties_auto_numbering.png
+.. figure:: /_external/_images/en/qet_project/qet_project_properties_auto_numbering.png
    :align: center
 
    Figure: QElectroTech conductor auto numbering 

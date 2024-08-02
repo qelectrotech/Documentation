@@ -1,4 +1,4 @@
-.. _conductor/type/single_line_conductor
+.. _conductor/type/single_line_conductor:
 
 =====================
 Single line conductor
@@ -16,14 +16,14 @@ are normally not represented.
 QElectroTech does not allow defining any `conductor property`_ at single line conductor. The single line 
 conductor does not have the posibility of text linking.  
 
-.. figure:: ../../images/qet_conductor_single_line.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_single_line.png
    :align: center
 
    Figure: QElectroTech single line conductors
 
 The most common sigle line conductors used at `single line diagrams`_ of power electric systems are:
 
-.. figure:: ../../images/qet_conductor_systems.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_systems.png
    :align: center
 
    Figure: Common single line conductors

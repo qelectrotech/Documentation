@@ -1,4 +1,4 @@
-.. _conductor/type/multiline_conductor
+.. _conductor/type/multiline_conductor:
 
 ====================
 Multiline conductor
@@ -17,7 +17,7 @@ systems.
 The main difference of multiline with respect to `single line conductors`_ is the posibility to 
 display text which is linked to the `conductor properties`_. 
 
-.. figure:: ../../images/qet_conductor_multiline.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_multiline.png
    :align: center
 
    Figure: Multiline conductor

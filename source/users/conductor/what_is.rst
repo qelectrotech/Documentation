@@ -1,4 +1,4 @@
-.. _conductor/what_is
+.. _conductor/what_is:
 
 ====================
 What is a conductor?
@@ -7,7 +7,7 @@ What is a conductor?
 A `conductor`_ or conduit represents the means of transmission of information, electrical power, flow 
 power (pressure or flow volume) between source and target. 
 
-.. figure:: ../images/qet_conductor.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor.png
    :align: center
 
    Figure: QElectroTech conductor 
