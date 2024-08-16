@@ -3,9 +3,13 @@ name: REUSE
 
 on:
   push:
+    paths-ignore:
+      - 'LICENSES/*'
   pull_request:
     branches:
       - main
+    paths-ignore:
+      - 'LICENSES/*'
     
 jobs:
   build:
