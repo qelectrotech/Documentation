@@ -31,8 +31,8 @@ jobs:
       run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" source/developer/* source/users/* source/index.rst source/doc_changelog.rst --skip-unrecognised --recursive
     - name: Commit REUSE compliant files back to repo
       run: |
-        touch .gitignore && echo "LICENCES/" > .gitignore
         git config --global user.name "REUSE Github Action"
         git config --global user.email "action@github.com"
-        git commit -m "Files are now REUSE-compliant" -a
+        git add --all -- ':!LICENSES/*'
+        git commit -m "Files are now REUSE-compliant"
         git push
