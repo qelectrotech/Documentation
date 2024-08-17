@@ -36,4 +36,7 @@ jobs:
         git clean -f LICENSES/
         git commit -m "Files are now REUSE-compliant" -a
         git push
-      
+    - name: When no changes
+      if: failure()
+      run: 
+        echo "Nothing has changed"
