@@ -29,6 +29,7 @@ We welcome contributions and have a `dedicated entry <developer/index>`_ in the 
    users/index.rst
    developer/index.rst
    doc_changelog.rst
+   QET Homepage <https://qelectrotech.org/>
    QET Forum <https://qelectrotech.org/forum/index.php>
 
 
