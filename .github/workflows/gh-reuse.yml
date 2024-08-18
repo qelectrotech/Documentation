@@ -37,7 +37,7 @@ jobs:
         git commit -m "Files are now REUSE-compliant" -a
         git push
       id: git
+      continue-on-error: true
     - name: When no changes
       run: echo "Nothing has changed"
       if: job.steps.git.status == failure()
-      
