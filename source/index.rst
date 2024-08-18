@@ -26,9 +26,9 @@ We welcome contributions and have a `dedicated entry <developer/index>`_ in the 
    :maxdepth: 1
    
    Home <self>
-   users/index.rst
-   developer/index.rst
-   doc_changelog.rst
+   users/index
+   developer/index
+   doc_changelog
    QET Homepage <https://qelectrotech.org>
    QET Forum <https://qelectrotech.org/forum/index.php>
 
