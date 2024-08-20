@@ -36,8 +36,8 @@ jobs:
         git clean -f LICENSES/
         git commit -m "Files are now REUSE-compliant" -a
         git push
-      id: git
+      id: back_commit
       continue-on-error: true
     - name: When no changes
       run: echo "Nothing has changed"
-      if: job.steps.git.status == failure()
+      if: steps.back_commit.outcome == failure()
