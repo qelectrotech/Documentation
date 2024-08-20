@@ -2,9 +2,6 @@ name: REUSE
 
 
 on:
-  push:
-    paths-ignore:
-      - 'LICENSES/*'
   pull_request:
     branches:
       - main
@@ -37,8 +34,4 @@ jobs:
         git commit -m "Files are now REUSE-compliant" -a
         git push
       id: back_commit
-      continue-on-error: true
-    - name: When no changes
-      if: steps.back_commit.outcome == failure() && steps.back_commit.conclusion == success()
-      run: echo "Nothing has changed"
-      
+      continue-on-error: true   
