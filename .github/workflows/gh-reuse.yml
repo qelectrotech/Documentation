@@ -40,4 +40,4 @@ jobs:
       continue-on-error: true
     - name: When no changes
       run: echo "Nothing has changed"
-      if: steps.back_commit.outcome == failure()
+      if: steps.back_commit.outcome == failure() && steps.back_commit.conclusion == success()
