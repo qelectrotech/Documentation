@@ -33,5 +33,4 @@ Developer Manual
    
    contributing
    build
-   app_changelog
    

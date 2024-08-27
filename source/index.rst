@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: GPL-2.0-only
 
 =============================================
-Welcome to the QET Wiki!
+Welcome to the QET Documentation
 =============================================
 
 What is QET?
@@ -28,6 +28,7 @@ We welcome contributions and have a `dedicated entry <developer/index>`_ in the 
    Home <self>
    users/index
    developer/index
+   app_changelog
    doc_changelog
    QET Homepage <https://qelectrotech.org>
    QET Forum <https://qelectrotech.org/forum/index.php>

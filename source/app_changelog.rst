@@ -4,14 +4,17 @@
 
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
-.. _developer/app_changelog:
+.. _app_changelog:
 
 =============
 App Changelog
 =============
 
+Releases
+--------
+
 Version 0.9
------------
+~~~~~~~~~~~
 
 - Diagram editor :
 
@@ -43,3 +46,5 @@ Version 0.9
 - Elements collection :
 
   - Improve collection 8274 elements in 1097 categories (i.e. 9371 files).
+
+
