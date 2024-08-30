@@ -9,7 +9,7 @@ on:
       - 'LICENSES/*'
     
 jobs:
-  build:
+  Licensing:
     runs-on: ubuntu-latest
     permissions:
       contents: write
