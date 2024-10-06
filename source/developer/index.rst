@@ -14,13 +14,13 @@ Developer Manual
 
 
     .. grid-item-card:: Contributing to the QET source code 
-        :img-top: ../_external/_images/_site-assets/git_logo.png
+        :img-top: ../_external/_images/_site-assets/developer/ico/400x400/git.png
         :img-alt: Image showing Git logo
         :link:  developer/contributing
         :link-type: ref
     
     .. grid-item-card:: Building QET from source
-        :img-top: ../_external/_images/_site-assets/ico/256x256/interface.png
+        :img-top: ../_external/_images/_site-assets/developer/ico/22x22/build.svg
         :img-alt: Image showing QelectroTech's interface wizard
         :link: interface/index
         :link-type: ref

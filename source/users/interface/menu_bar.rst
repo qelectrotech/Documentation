@@ -49,7 +49,7 @@ File menu
 Edit menu
 ~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
    :align: center
 
    Figure: QElectroTech edit menu 
@@ -111,7 +111,7 @@ Edit menu
 Project menu
 ~~~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_project.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_project.png
    :align: center
 
    Figure: QElectroTech project menu 
@@ -143,7 +143,7 @@ Project menu
 Display menu
 ~~~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_display.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_display.png
    :align: center
 
    Figure: QElectroTech display menu 
@@ -175,7 +175,7 @@ Display menu
 Settings menu
 ~~~~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_settings.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
    :align: center
 
    Figure: QElectroTech settings menu 
@@ -193,7 +193,7 @@ Settings menu
 Windows menu
 ~~~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_windows.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_windows.png
    :align: center
 
    Figure: QElectroTech windows menu 
@@ -217,7 +217,7 @@ Windows menu
 Help menu
 ~~~~~~~~~
 
-.. figure:: ../images/qet_menu_help.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_help.png
    :align: center
 
    Figure: QElectroTech help menu 
@@ -242,24 +242,24 @@ Help menu
 
 .. _Help or Information tool bar: ../interface/help_bar.html
 
-.. |document-recent| image:: /_external/_images/_site-assets/ico/22x22/document/document-open-recent.png
-.. |project-new| image:: ../images/ico/22x22/project-new.png
-.. |project| image:: ../images/ico/22x22/project.png
-.. |document-save| image:: ../images/ico/22x22/document-save.png
-.. |document-save-as| image:: ../images/ico/22x22/document-save-as.png
-.. |project-close| image:: ../images/ico/22x22/project-close.png
-.. |document-export| image:: ../images/ico/22x22/document-export.png
-.. |document-print| image:: ../images/ico/22x22/document-print.png
-.. |application-exit| image:: ../images/ico/22x22/application-exit.png
-.. |edit-undo| image:: ../images/ico/22x22/edit-undo.png
-.. |edit-redo| image:: ../images/ico/22x22/edit-redo.png
-.. |edit-cut| image:: ../images/ico/22x22/edit-cut.png
-.. |edit-copy| image:: ../images/ico/22x22/edit-copy.png
-.. |edit-paste| image:: ../images/ico/22x22/edit-paste.png
-.. |edit-select-all| image:: ../images/ico/22x22/edit-select-all.png
+.. |document-recent| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-open-recent.png
+.. |project-new| image:: /_external/_images/_site-assets/user/ico/22x22/project/project-new.png
+.. |project| image:: /_external/_images/_site-assets/user/ico/22x22/project/project.png
+.. |document-save| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save.png
+.. |document-save-as| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save-as.png
+.. |project-close| image:: /_external/_images/_site-assets/user/ico/22x22/project/project-close.png
+.. |document-export| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-export.png
+.. |document-print| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-print.png
+.. |application-exit| image:: /_external/_images/_site-assets/user/ico/22x22/application/application-exit.png
+.. |edit-undo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-undo.png
+.. |edit-redo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-redo.png
+.. |edit-cut| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-cut.png
+.. |edit-copy| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-copy.png
+.. |edit-paste| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-paste.png
+.. |edit-select-all| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-select-all.png
 .. |edit-select-none| image:: ../images/ico/16x16/edit-select-none.png
 .. |edit-select-invert| image:: ../images/ico/16x16/edit-select-invert.png
-.. |edit-delete| image:: ../images/ico/22x22/edit-delete.png
+.. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
 .. |transform-rotate| image:: ../images/ico/16x16/transform-rotate.png
 .. |object-rotate-right| image:: ../images/ico/16x16/object-rotate-right.png
 .. |element-edit| image:: ../images/ico/16x16/element-edit.png
@@ -269,26 +269,26 @@ Help menu
 .. |delete-column| image:: ../images/ico/16x16/edit-table-delete-column.png
 .. |delete-row| image:: ../images/ico/16x16/edit-table-delete-row.png
 .. |insert-row-under| image:: ../images/ico/16x16/edit-table-insert-row-under.png
-.. |bring_forward| image:: ../images/ico/22x22/bring_forward.png
-.. |raise| image:: ../images/ico/22x22/raise.png
-.. |lower| image:: ../images/ico/22x22/lower.png
-.. |send_backward| image:: ../images/ico/22x22/send_backward.png
+.. |bring_forward| image:: /_external/_images/_site-assets/user/ico/22x22/bring_forward.png
+.. |raise| image:: /_external/_images/_site-assets/user/ico/22x22/raise.png
+.. |lower| image:: /_external/_images/_site-assets/user/ico/22x22/lower.png
+.. |send_backward| image:: /_external/_images/_site-assets/user/ico/22x22/send_backward.png
 .. |project-properties| image:: ../images/ico/16x16/project-properties.png
 .. |folio-new| image:: ../images/ico/16x16/folio-new.png
 .. |folio-delete| image:: ../images/ico/16x16/folio-delete.png
-.. |edit-clear| image:: ../images/ico/22x22/edit-clear.png
+.. |edit-clear| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-clear.png
 .. |table-of-content| image:: ../images/ico/16x16/table-of-content.png
-.. |export-csv| image:: ../images/ico/22x22/export-csv.png
-.. |terminalstrip| image:: ../images/ico/22x22/terminalstrip.png
+.. |export-csv| image:: /_external/_images/_site-assets/user/ico/22x22/export-csv.png
+.. |terminalstrip| image:: /_external/_images/_site-assets/user/ico/22x22/terminal/terminalstrip.png
 .. |select| image:: ../images/ico/16x16/select.png
 .. |move| image:: ../images/ico/16x16/move.png
 .. |grid| image:: ../images/ico/16x16/grid.png
-.. |diagram_bg| image:: ../images/ico/22x22/diagram_bg.png
+.. |diagram_bg| image:: /_external/_images/_site-assets/user/ico/22x22/diagram/diagram_bg.png
 .. |zoom-in| image:: ../images/ico/16x16/zoom-in.png
 .. |zoom-out| image:: ../images/ico/16x16/zoom-out.png
-.. |zoom-draw| image:: ../images/ico/22x22/zoom-draw.png
-.. |view-fit-window| image:: ../images/ico/22x22/view-fit-window.png
-.. |zoom-original| image:: ../images/ico/22x22/zoom-original.png
+.. |zoom-draw| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-draw.png
+.. |view-fit-window| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-fit-window.png
+.. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png
 .. |configure-toolbars| image:: ../images/ico/16x16/configure-toolbars.png
 .. |view-fullscreen| image:: ../images/ico/16x16/view-fullscreen.png
 .. |configure| image:: ../images/ico/16x16/configure.png
