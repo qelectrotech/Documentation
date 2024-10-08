@@ -196,9 +196,9 @@ The different buttons from toolbar **Depth** are:
 .. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png
 .. |dialog-information| image:: /_external/_images/_site-assets/user/ico/22x22/dialog/dialog-information.png
 .. |conductor2| image:: ../images/ico/22x22/conductor2.png
-.. |autoconnect| image:: ../images/ico/22x22/autoconnect.png
-.. |textfield| image:: ../images/ico/22x22/textfield.png
-.. |insert-image| image:: ../images/ico/22x22/insert-image.png
+.. |autoconnect| image:: /_external/_images/_site-assets/user/ico/22x22/autoconnect.png
+.. |textfield| image:: /_external/_images/_site-assets/user/ico/22x22/textfield.png
+.. |insert-image| image:: /_external/_images/_site-assets/user/ico/22x22/insert-image.png
 .. |line| image:: ../images/ico/22x22/line.png
 .. |ellipse| image:: ../images/ico/22x22/ellipse.png
 .. |rectangle| image:: ../images/ico/22x22/rectangle.png
