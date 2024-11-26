@@ -67,9 +67,9 @@ Edit menu
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Paste                    | Pastes elements from the clipboard into the folio           |  ``Ctrl + v``             | |edit-paste|          |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select All               | Selects all elments on the folio                            |  ``Ctrl + a``             | |edit-select-all|     |
+|  Select All               | Selects all elements on the folio                            |  ``Ctrl + a``             | |edit-select-all|     |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select none              | Deselect all elments on the folio                           |  ``Ctrl + Shift + a``     | |edit-select-none|    |
+|  Select none              | Deselect all elements on the folio                           |  ``Ctrl + Shift + a``     | |edit-select-none|    |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Invert selection         | Inverts selection of elements                               |  ``Ctrl + i``             | |edit-select-invert|  |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
@@ -240,7 +240,7 @@ Help menu
 
 .. _Qt: https://www.qt.io/
 
-.. _Help or Information tool bar: ../interface/help_bar.html
+.. _Help or Information tool bar: .. _interface/help_bar:
 
 .. |document-recent| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-open-recent.png
 .. |project-new| image:: /_external/_images/_site-assets/user/ico/22x22/project/project-new.png
@@ -257,43 +257,43 @@ Help menu
 .. |edit-copy| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-copy.png
 .. |edit-paste| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-paste.png
 .. |edit-select-all| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-select-all.png
-.. |edit-select-none| image:: ../images/ico/16x16/edit-select-none.png
-.. |edit-select-invert| image:: ../images/ico/16x16/edit-select-invert.png
+.. |edit-select-none| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-select-none.png
+.. |edit-select-invert| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-select-invert.png
 .. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
-.. |transform-rotate| image:: ../images/ico/16x16/transform-rotate.png
-.. |object-rotate-right| image:: ../images/ico/16x16/object-rotate-right.png
-.. |element-edit| image:: ../images/ico/16x16/element-edit.png
-.. |conductor-reset| image:: ../images/ico/16x16/conductor-reset.png
-.. |folio-properties| image:: ../images/ico/16x16/folio-properties.png
-.. |insert-column-right| image:: ../images/ico/16x16/edit-table-insert-column-right.png
-.. |delete-column| image:: ../images/ico/16x16/edit-table-delete-column.png
-.. |delete-row| image:: ../images/ico/16x16/edit-table-delete-row.png
-.. |insert-row-under| image:: ../images/ico/16x16/edit-table-insert-row-under.png
+.. |transform-rotate| image:: /_external/_images/_site-assets/user/ico/16x16/transform-rotate.png
+.. |object-rotate-right| image:: /_external/_images/_site-assets/user/ico/16x16/object/object-rotate-right.png
+.. |element-edit| image:: /_external/_images/_site-assets/user/ico/16x16/element/element-edit.png
+.. |conductor-reset| image:: /_external/_images/_site-assets/user/ico/16x16/conductor/conductor-reset.png
+.. |folio-properties| image:: /_external/_images/_site-assets/user/ico/16x16/folio/folio-properties.png
+.. |insert-column-right| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-table-insert-column-right.png
+.. |delete-column| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-table-delete-column.png
+.. |delete-row| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-table-delete-row.png
+.. |insert-row-under| image:: /_external/_images/_site-assets/user/ico/16x16/edit/edit-table-insert-row-under.png
 .. |bring_forward| image:: /_external/_images/_site-assets/user/ico/22x22/bring_forward.png
 .. |raise| image:: /_external/_images/_site-assets/user/ico/22x22/raise.png
 .. |lower| image:: /_external/_images/_site-assets/user/ico/22x22/lower.png
 .. |send_backward| image:: /_external/_images/_site-assets/user/ico/22x22/send_backward.png
-.. |project-properties| image:: ../images/ico/16x16/project-properties.png
-.. |folio-new| image:: ../images/ico/16x16/folio-new.png
-.. |folio-delete| image:: ../images/ico/16x16/folio-delete.png
+.. |project-properties| image:: /_external/_images/_site-assets/user/ico/16x16/project/project-properties.png
+.. |folio-new| image:: /_external/_images/_site-assets/user/ico/16x16/folio/folio-new.png
+.. |folio-delete| image:: /_external/_images/_site-assets/user/ico/16x16/folio/folio-delete.png
 .. |edit-clear| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-clear.png
-.. |table-of-content| image:: ../images/ico/16x16/table-of-content.png
+.. |table-of-content| image:: /_external/_images/_site-assets/user/ico/16x16/table-of-content.png
 .. |export-csv| image:: /_external/_images/_site-assets/user/ico/22x22/export-csv.png
 .. |terminalstrip| image:: /_external/_images/_site-assets/user/ico/22x22/terminal/terminalstrip.png
-.. |select| image:: ../images/ico/16x16/select.png
-.. |move| image:: ../images/ico/16x16/move.png
-.. |grid| image:: ../images/ico/16x16/grid.png
+.. |select| image:: /_external/_images/_site-assets/user/ico/16x16/select.png
+.. |move| image:: /_external/_images/_site-assets/user/ico/16x16/move.png
+.. |grid| image:: /_external/_images/_site-assets/user/ico/16x16/grid.png
 .. |diagram_bg| image:: /_external/_images/_site-assets/user/ico/22x22/diagram/diagram_bg.png
-.. |zoom-in| image:: ../images/ico/16x16/zoom-in.png
-.. |zoom-out| image:: ../images/ico/16x16/zoom-out.png
+.. |zoom-in| image:: /_external/_images/_site-assets/user/ico/16x16/zoom/zoom-in.png
+.. |zoom-out| image:: /_external/_images/_site-assets/user/ico/16x16/zoom/zoom-out.png
 .. |zoom-draw| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-draw.png
 .. |view-fit-window| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-fit-window.png
 .. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png
-.. |configure-toolbars| image:: ../images/ico/16x16/configure-toolbars.png
-.. |view-fullscreen| image:: ../images/ico/16x16/view-fullscreen.png
-.. |configure| image:: ../images/ico/16x16/configure.png
-.. |qet-icon| image:: ../images/ico/16x16/qet.png
-.. |help-contents| image:: ../images/ico/16x16/help-contents.png
-.. |show-video| image:: ../images/ico/16x16/kdenlive-show-video.png
-.. |help-donate| image:: ../images/ico/16x16/help-donate.png
-.. |qt-icon| image:: ../images/ico/16x16/qt.png
+.. |configure-toolbars| image:: /_external/_images/_site-assets/user/ico/16x16/configure/configure-toolbars.png
+.. |view-fullscreen| image:: /_external/_images/_site-assets/user/ico/16x16/view/view-fullscreen.png
+.. |configure| image:: /_external/_images/_site-assets/user/ico/16x16/configure/configure.png
+.. |qet-icon| image:: /_external/_images/_site-assets/user/ico/16x16/qet.png
+.. |help-contents| image:: /_external/_images/_site-assets/user/ico/16x16/help/help-contents.png
+.. |show-video| image:: /_external/_images/_site-assets/user/ico/16x16/kdenlive-show-video.png
+.. |help-donate| image:: /_external/_images/_site-assets/user/ico/16x16/help/help-donate.png
+.. |qt-icon| image:: /_external/_images/_site-assets/user/ico/16x16/qt.png

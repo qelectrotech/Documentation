@@ -9,12 +9,12 @@
 ================
 Developer Manual
 ================
-.. grid::  2
+.. grid::  4
     :gutter: 4
 
 
     .. grid-item-card:: Contributing to the QET source code 
-        :img-top: ../_external/_images/_site-assets/developer/ico/400x400/git.png
+        :img-top: ../_external/_images/_site-assets/developer/ico/256x256/git.png
         :img-alt: Image showing Git logo
         :link:  developer/contributing
         :link-type: ref
