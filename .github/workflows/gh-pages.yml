@@ -16,7 +16,7 @@ jobs:
       id-token: write
     steps:
     - id: Pathtest
-      run: ./test.sh
+      run: $GITHUB_WORKSPACE/test.sh
     - id: spell
       uses: codespell-project/actions-codespell@v2
       with:
