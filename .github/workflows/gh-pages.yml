@@ -15,12 +15,10 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - id: Pathtest
-      run: $GITHUB_WORKSPACE/test.sh
     - id: spell
       uses: codespell-project/actions-codespell@v2
       with:
-        exclude_file: /code/source/conf.py
+        exclude_file: $GITHUB_WORKSPACE/source/conf.py
         ignore_words_list: seealso
     - id: deployment
       uses: sphinx-notes/pages@v3
