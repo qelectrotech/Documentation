@@ -15,6 +15,8 @@ jobs:
       pages: write
       id-token: write
     steps:
+    - id: Pathtest
+      run: ./test.sh
     - id: spell
       uses: codespell-project/actions-codespell@v2
       with:
