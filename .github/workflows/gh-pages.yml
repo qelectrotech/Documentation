@@ -18,7 +18,7 @@ jobs:
     - id: spell
       uses: codespell-project/actions-codespell@v2
       with:
-        skip: *.py
+        exclude_file: source/conf.py
         ignore_words_list: seealso
     - id: deployment
       uses: sphinx-notes/pages@v3
