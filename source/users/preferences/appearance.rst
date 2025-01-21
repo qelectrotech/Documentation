@@ -9,8 +9,8 @@ Project visualization
 
 The defaul project visualization option can be defined at the appareance settings from QElectroTech. Select between:
 
-    * Use windows
-    * Use tabs
+* Use windows
+* Use tabs
 
 .. note::
 

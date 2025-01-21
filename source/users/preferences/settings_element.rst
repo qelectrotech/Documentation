@@ -37,10 +37,10 @@ installation process.
 
 For changing the element collection paths of QElectroTech:
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **Elements** section.
-    3. Search and choose the folder directory from the `QET (Common)`_ and `User`_ element collection at the **Collection of elements** section.
-    4. Press **OK** button to save the configuration changes and close settings PopUP window. 
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **Elements** section.
+3. Search and choose the folder directory from the `QET (Common)`_ and `User`_ element collection at the **Collection of elements** section.
+4. Press **OK** button to save the configuration changes and close settings PopUP window. 
 
 .. note::
 
@@ -49,15 +49,15 @@ For changing the element collection paths of QElectroTech:
 Element management settings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-QElectroTech provides the posibility to predefine the `element author`_. In this way; when a new 
+QElectroTech provides the possibility to predefine the `element author`_. In this way; when a new 
 `element`_ is created, QElectroTech defines automatically this `element property`_. 
 
 For pre-defining the `element author`_ information:
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **Elements** section.
-    3. Defines the element author and license information at the text box from **Elements management** section.
-    4. Press **OK** button to save the configuration changes and close settings PopUP window. 
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **Elements** section.
+3. Defines the element author and license information at the text box from **Elements management** section.
+4. Press **OK** button to save the configuration changes and close settings PopUP window. 
 
 .. _QET (Common): ../element/collection/default_collection.html
 .. _User: ../element/collection/user_collection.html

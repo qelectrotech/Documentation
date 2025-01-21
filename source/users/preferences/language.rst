@@ -4,15 +4,15 @@
 Select language
 ===============
 
-QElectroTech is a multilanguage tool already translated to 21 languages. 
+QElectroTech is a multilingual tool already translated to 21 languages. 
 
 To select the working language: 
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **General** section.
-    3. Go to **Language** tab.
-    4. Spread out the combo box and select the desired language.
-    5. Press **OK** button to save the configuration changes and close settings PopUP window. 
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **General** section.
+3. Go to **Language** tab.
+4. Spread out the combo box and select the desired language.
+5. Press **OK** button to save the configuration changes and close settings PopUP window. 
 
 .. note::
 

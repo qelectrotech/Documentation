@@ -1,4 +1,4 @@
-.. _en/preferences/new_project/cross_references_settings
+.. _en/preferences/new_project/cross_references_settings:
 
 =========================
 Cross references settings
@@ -11,22 +11,22 @@ each time that the user `creates new projects`_.
 The **Cross references** tab from **New project** settings section allows pre-defining some 
 `cross references properties`_:
 
-    * Cross references type (Coil, organ of protection or Switch/button).
-    * Cross references label
-    * Representation position cross references label (Under the label of the element or Footer).
+* Cross references type (Coil, organ of protection or Switch/button).
+* Cross references label
+* Representation position cross references label (Under the label of the element or Footer).
 
-.. figure:: graphics/qet_new_project_cross_references_settings.png
+.. figure:: /_external/_images/en/qet_new_project/qet_new_project_cross_references_settings.png
     :align: center
 
     Figure: QElectroTech New project cross references settings
 
 To define cross references settings: 
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **New project** section.
-    3. Go to **Cross references** tab.
-    4. Define the desired parameters for each field.
-    5. Press **OK** button to save the configuration changes and close settings PopUP window.
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **New project** section.
+3. Go to **Cross references** tab.
+4. Define the desired parameters for each field.
+5. Press **OK** button to save the configuration changes and close settings PopUP window.
 
 .. note::
 

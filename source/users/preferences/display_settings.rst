@@ -9,12 +9,12 @@ settings, pre-define `new project`_ settings, `element`_ collection paths, etc.
 
 To display QElectroTech settings:
 
-    1. Select **Settings > Configure QElectroTech** menu item.
+1. Select **Settings > Configure QElectroTech** menu item.
 
-        .. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
-            :align: center
+.. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
+   :align: center
 
-            Figure: QElectroTech settings menu
+Figure: QElectroTech settings menu
 
 .. _language: ../preferences/language.html
 .. _appearance: ../preferences/appearance.html

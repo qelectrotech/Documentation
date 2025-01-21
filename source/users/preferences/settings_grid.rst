@@ -8,10 +8,10 @@ QElectroTech displays a grid in the `workspace`_ which makes the drawing work ea
 
 To configure the grid displayed:
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **General** section.
-    3. Go to **Grid + Keyboard** tab.
-    4. Define the X and Y pixels of the grid cell. The cell size can be between 1 and 30 pixels.
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **General** section.
+3. Go to **Grid + Keyboard** tab.
+4. Define the X and Y pixels of the grid cell. The cell size can be between 1 and 30 pixels.
 
 The number of grid cells displacement using the keyboard or the scroll bar can also be defined at the same section where the grid characteristics are defined. Standard and accurate scroll (with **ALT** key) can be defined.
 

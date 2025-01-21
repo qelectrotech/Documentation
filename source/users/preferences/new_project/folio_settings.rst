@@ -1,4 +1,4 @@
-.. _en/preferences/new_project/folio_settings
+.. _en/preferences/new_project/folio_settings:
 
 ==============
 Folio settings
@@ -10,23 +10,23 @@ each time that the user `creates new projects`_.
 
 The **Folio** tab from **New project** settings section allows pre-defining some `folio properties`_:
 
-    * `Folio size`_.
-    * `Folio title block`_.
-    * `Folio default variables values`_.
-    * `Folio user variables`_.
+* `Folio size`_.
+* `Folio title block`_.
+* `Folio default variables values`_.
+* `Folio user variables`_.
 
-.. figure:: graphics/qet_new_project_folio_settings.png
+.. figure:: /_external/_images/en/qet_new_project/qet_new_project_folio_settings.png
     :align: center
 
     Figure: QElectroTech New project folio settings
 
 To define folio settings: 
 
-    1. `Display`_ QElectroTech settings PopUP window.
-    2. Go to **New project** section.
-    3. Go to **Folio** tab.
-    4. Define the desired parameters for each field.
-    5. Press **OK** button to save the configuration changes and close settings PopUP window.
+1. `Display`_ QElectroTech settings PopUP window.
+2. Go to **New project** section.
+3. Go to **Folio** tab.
+4. Define the desired parameters for each field.
+5. Press **OK** button to save the configuration changes and close settings PopUP window.
 
 .. note::
 

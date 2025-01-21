@@ -14,8 +14,8 @@ Independent texts
 
 QElectroTech allows defining a default orientation and text font from the text field object.
 
-    1. Click at the button from the text font to display the `select font PopUp window`_.
-    2. Select a default rotation angle for the text.
+1. Click at the button from the text font to display the `select font PopUp window`_.
+2. Select a default rotation angle for the text.
 
 .. note::
 
@@ -31,14 +31,14 @@ Summary pages
 
 QElectroTech allows defining a default text font from the project summary table.
 
-    1. Click at the button from the text font to display the `select font PopUp window`_.
+1. Click at the button from the text font to display the `select font PopUp window`_.
 
 Other texts
 ~~~~~~~~~~~
 
 QElectroTech allows defining a default orientation and text font for the text that is not part from an element, text field object and from the project summary.
 
-    1. Click at the button from the text font to display the `select font PopUp window`_.
+1. Click at the button from the text font to display the `select font PopUp window`_.
 
 .. figure:: /_external/_images/en/qet_configure/qet_configure_text.png
     :align: center
