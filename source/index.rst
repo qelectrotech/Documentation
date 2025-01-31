@@ -1,101 +1,37 @@
-.. _index
+.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+..
+.. SPDX-License-Identifier: GPL-2.0-only
 
-==========================
-QElectroTech documentation
-==========================
+=============================================
+Welcome to the QET Documentation
+=============================================
 
-.. raw:: html
+What is QET?
+~~~~~~~~~~~~~~~~~~~~~
 
-   <ul class="grid">
-       <li class="grid-item">
-           <a href="basics/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Basics</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="interface/index.html">
-               <img alt="" src="_images/qet_gui.png"/>
-               <h2>Interface</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="preferences/index.html">
-               <img alt="" src="_images/icon-128x128-plasmagik.png"/>
-               <h2>Preferences</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="project/index.html">
-               <img alt="" src="_images/icon-128x128-project.png"/>
-               <h2>Project</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="folio/index.html">
-               <img alt="" src="_images/icon-128x128-folio.png"/>
-               <h2>Folio</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="element/index.html">
-               <img alt="" src="_images/icon-128x128-element.png"/>
-               <h2>Element</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="conductor/index.html">
-               <img alt="" src="_images/icon-128x128-conductor.png"/>
-               <h2>Conductor</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="schema/index.html">
-               <img alt="" src="_images/icon-128x128-diagram.png"/>
-               <h2>Schema</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="drawing/index.html">
-               <img alt="" src="_images/qet_lop.png"/>
-               <h2>Drawing</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="reports/index.html">
-               <img alt="" src="_images/qet_list_folios.png"/>
-               <h2>Reports</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="export&print/index.html">
-               <img alt="" src="_images/icon-128x128-print.png"/>
-               <h2>Export & Print</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="annex/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Annex</h2>
-           </a>
-       </li>
-   </ul>
+| **QET** (QelectroTech) is a cross-platform free and open-source (FOSS) tool allowing you to create electrical, hydraulic and pneumatic drawings.
+| These drawings are essential tools for Electritians and Electrical Engineers alike, allowing them to easely identify components and connections of a electrical circuit.
+
+Why does </feature> isn't yet implemented?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Contrary to proprietary drawing sofwares, QET is a a hobby project created by `the QelectroTech Team <https://qelectrotech.org/contact.php>`_. 
+As we are a small developer team, we sadly do not have the capacity to implement every feature that our users propose.
+
+That said, if you have some experience in C programming or with `QT <https://doc.qt.io/>`_ and are willing to implement a feature for QET, please do. 
+We welcome contributions and have a `dedicated entry <developer/index>`_ in the documentation explaining you how to setup a dev environnement. 
+
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   
+   Home <self>
+   users/index
+   developer/index
+   app_changelog
+   doc_changelog
+   QET Homepage <https://qelectrotech.org>
+   QET Forum <https://qelectrotech.org/forum/index.php>
 
 
-   basics/index
-   interface/index
-   preferences/index
-   project/index
-   folio/index
-   element/index
-   conductor/index
-   schema/index
-   drawing/index
-   reports/index
-   export&print/index
-   annex/index
 
-here is the pdf version :download:`pdf <downloads/QElectroTechdoc-0.8.pdf>`

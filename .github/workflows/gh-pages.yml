@@ -1,0 +1,28 @@
+name: Deploy Sphinx documentation to Pages
+
+on:
+  push:
+  pull_request:
+    branches: [master] # branch to trigger deployment
+
+jobs:
+  pages:
+    runs-on: ubuntu-20.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+   # - id: spell
+    #  uses: codespell-project/actions-codespell@v2
+     # with:
+      #  exclude_file: ${{ github.workspace }}/source/conf.py
+      #  ignore_words_list: seealso
+    - id: deployment
+      uses: sphinx-notes/pages@v3
+      with:
+        documentation_path: ./source
+        requirements_path: requirements.txt
+        cache: true
